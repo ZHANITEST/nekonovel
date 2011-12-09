@@ -1,0 +1,5 @@
+<NekoNovel_Particle>
+    <Emitter Name="½ÃÀÛ" EmitDelay="0.000000" MinDirX="-500.000000" MinDirY="-500.000000" MaxDirX="500.000000" MaxDirY="500.000000" MinScale="0.200000" MaxScale="0.500000" MaxCount="100" Loop="false" SpawnPosX="400.000000" SpawnPosY="300.000000" SpawnRadiusX="1" SpawnRadiusY="1" MinLifeTime="6.000000" MaxLifeTime="10.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="0.500000" MinStartColor="65280" MaxStartColor="4294967295" MinEndColor="0" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="0.000000" ScaleSpeed="0.500000" GravityX="0.000000" GravityY="0.000000" SrcBlend="3" DestBlend="2" Image="¿ø2.png">
+        <Events />
+    </Emitter>
+</NekoNovel_Particle>

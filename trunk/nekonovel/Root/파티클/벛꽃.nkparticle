@@ -1,0 +1,13 @@
+<NekoNovel_Particle>
+    <Emitter Name="시작" EmitDelay="0.000000" MinDirX="-100.000000" MinDirY="-100.000000" MaxDirX="100.000000" MaxDirY="100.000000" MinScale="1.000000" MaxScale="3.000000" MaxCount="130" Loop="true" SpawnPosX="1400.000000" SpawnPosY="-300.000000" SpawnRadiusX="100" SpawnRadiusY="100" MinLifeTime="5.000000" MaxLifeTime="15.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="22.000000" MinStartColor="16752356" MaxStartColor="4294942330" MinEndColor="16777215" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="0.050000" ScaleSpeed="0.100000" GravityX="-150.000000" GravityY="60.000000" SrcBlend="5" DestBlend="2" Image="벛꽃.png">
+        <Events>
+            <Event Time="6.000000" Flags="8" MinDirX="-100.000000" MinDirY="-100.000000" MaxDirX="100.000000" MaxDirY="100.000000" GravityX="0.000000" GravityY="0.000000" RotationSpeed="0.050000" ScaleSpeed="0.000000" Color="4294967295" />
+        </Events>
+    </Emitter>
+    <Emitter Name="파티클" EmitDelay="1.000000" MinDirX="-100.000000" MinDirY="-100.000000" MaxDirX="100.000000" MaxDirY="100.000000" MinScale="0.030000" MaxScale="0.100000" MaxCount="300" Loop="true" SpawnPosX="1200.000000" SpawnPosY="-200.000000" SpawnRadiusX="100" SpawnRadiusY="100" MinLifeTime="5.000000" MaxLifeTime="15.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="18.000000" MinStartColor="16752256" MaxStartColor="4294942330" MinEndColor="16777215" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="0.000000" ScaleSpeed="0.000000" GravityX="-200.000000" GravityY="100.000000" SrcBlend="3" DestBlend="2" Image="원2.png">
+        <Events />
+    </Emitter>
+    <Emitter Name="파티클" EmitDelay="0.000000" MinDirX="-100.000000" MinDirY="-100.000000" MaxDirX="100.000000" MaxDirY="100.000000" MinScale="1.000000" MaxScale="3.000000" MaxCount="75" Loop="true" SpawnPosX="1400.000000" SpawnPosY="-300.000000" SpawnRadiusX="100" SpawnRadiusY="100" MinLifeTime="5.000000" MaxLifeTime="15.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="22.000000" MinStartColor="16752256" MaxStartColor="4294942330" MinEndColor="16777215" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="0.050000" ScaleSpeed="0.100000" GravityX="-150.000000" GravityY="65.000000" SrcBlend="5" DestBlend="2" Image="벛꽃.png">
+        <Events />
+    </Emitter>
+</NekoNovel_Particle>

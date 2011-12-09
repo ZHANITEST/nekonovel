@@ -1,0 +1,14 @@
+<NekoNovel_Particle>
+    <Emitter Name="시작" EmitDelay="0.000000" MinDirX="0.000000" MinDirY="-500.000000" MaxDirX="0.000000" MaxDirY="-300.000000" MinScale="1.000000" MaxScale="1.000000" MaxCount="100" Loop="true" SpawnPosX="100.000000" SpawnPosY="500.000000" SpawnRadiusX="100" SpawnRadiusY="100" MinLifeTime="0.000000" MaxLifeTime="2.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="1.000000" MinStartColor="4279769119" MaxStartColor="4279769119" MinEndColor="4284749855" MaxEndColor="4284749855" Rotation="0.000000" RotationSpeed="0.000000" ScaleSpeed="0.000000" GravityX="0.000000" GravityY="0.000000" SrcBlend="4" DestBlend="6" Image="비.png">
+        <Events />
+    </Emitter>
+    <Emitter Name="시작2" EmitDelay="0.000000" MinDirX="0.000000" MinDirY="-500.000000" MaxDirX="0.000000" MaxDirY="-300.000000" MinScale="1.000000" MaxScale="1.000000" MaxCount="100" Loop="true" SpawnPosX="750.000000" SpawnPosY="500.000000" SpawnRadiusX="100" SpawnRadiusY="100" MinLifeTime="0.000000" MaxLifeTime="2.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="0.000000" MinStartColor="4279769119" MaxStartColor="4279769119" MinEndColor="4284749855" MaxEndColor="4284749855" Rotation="0.000000" RotationSpeed="0.000000" ScaleSpeed="0.000000" GravityX="0.000000" GravityY="0.000000" SrcBlend="4" DestBlend="8" Image="비.png">
+        <Events />
+    </Emitter>
+    <Emitter Name="시작" EmitDelay="0.000000" MinDirX="-170.000000" MinDirY="-200.000000" MaxDirX="170.000000" MaxDirY="0.000000" MinScale="1.000000" MaxScale="1.000000" MaxCount="100" Loop="true" SpawnPosX="400.000000" SpawnPosY="600.000000" SpawnRadiusX="400" SpawnRadiusY="0" MinLifeTime="0.200000" MaxLifeTime="2.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="0.500000" MinStartColor="1694435840" MaxStartColor="1694435840" MinEndColor="16777215" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="0.100000" ScaleSpeed="0.000000" GravityX="0.000000" GravityY="0.000000" SrcBlend="5" DestBlend="6" Image="wing.png">
+        <Events />
+    </Emitter>
+    <Emitter Name="시작" EmitDelay="0.000000" MinDirX="-170.000000" MinDirY="-200.000000" MaxDirX="170.000000" MaxDirY="0.000000" MinScale="1.000000" MaxScale="1.000000" MaxCount="100" Loop="true" SpawnPosX="400.000000" SpawnPosY="600.000000" SpawnRadiusX="400" SpawnRadiusY="0" MinLifeTime="0.500000" MaxLifeTime="2.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="0.500000" MinStartColor="1694435840" MaxStartColor="1694435840" MinEndColor="16777215" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="0.100000" ScaleSpeed="0.000000" GravityX="0.000000" GravityY="0.000000" SrcBlend="5" DestBlend="6" Image="wing.png">
+        <Events />
+    </Emitter>
+</NekoNovel_Particle>
