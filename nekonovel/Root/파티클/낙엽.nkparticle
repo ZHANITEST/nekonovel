@@ -1,0 +1,11 @@
+<NekoNovel_Particle>
+    <Emitter Name="파티클" EmitDelay="1.000000" MinDirX="-30.000000" MinDirY="5.000000" MaxDirX="30.000000" MaxDirY="100.000000" MinScale="0.300000" MaxScale="0.700000" MaxCount="12" Loop="true" SpawnPosX="400.000000" SpawnPosY="0.000000" SpawnRadiusX="400" SpawnRadiusY="100" MinLifeTime="10.000000" MaxLifeTime="20.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="1.000000" MinStartColor="14248235" MaxStartColor="4294967295" MinEndColor="14248235" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="1.500000" ScaleSpeed="0.000000" GravityX="-15.000000" GravityY="3.000000" SrcBlend="10" DestBlend="2" Image="cherry1.png">
+        <Events />
+    </Emitter>
+    <Emitter Name="파티클" EmitDelay="1.000000" MinDirX="-20.000000" MinDirY="5.000000" MaxDirX="20.000000" MaxDirY="100.000000" MinScale="0.100000" MaxScale="0.700000" MaxCount="12" Loop="true" SpawnPosX="400.000000" SpawnPosY="0.000000" SpawnRadiusX="400" SpawnRadiusY="100" MinLifeTime="10.000000" MaxLifeTime="20.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="1.000000" MinStartColor="12628802" MaxStartColor="4294967295" MinEndColor="12628802" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="2.000000" ScaleSpeed="0.000000" GravityX="-10.000000" GravityY="5.000000" SrcBlend="10" DestBlend="2" Image="cherry2.png">
+        <Events />
+    </Emitter>
+    <Emitter Name="파티클" EmitDelay="1.000000" MinDirX="-10.000000" MinDirY="5.000000" MaxDirX="10.000000" MaxDirY="100.000000" MinScale="0.300000" MaxScale="0.700000" MaxCount="12" Loop="true" SpawnPosX="400.000000" SpawnPosY="0.000000" SpawnRadiusX="400" SpawnRadiusY="100" MinLifeTime="8.000000" MaxLifeTime="16.000000" MinFirstAppearTime="0.000000" MaxFirstAppearTime="1.000000" MinStartColor="11809844" MaxStartColor="4294967295" MinEndColor="11809844" MaxEndColor="16777215" Rotation="0.000000" RotationSpeed="2.500000" ScaleSpeed="0.000000" GravityX="-5.000000" GravityY="8.000000" SrcBlend="10" DestBlend="2" Image="cherry3.png">
+        <Events />
+    </Emitter>
+</NekoNovel_Particle>

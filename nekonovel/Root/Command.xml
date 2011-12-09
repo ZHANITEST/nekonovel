@@ -1,0 +1,79 @@
+<NekoNovel_Command>
+	<!-- 에디터의 배경 색깔 입니다. -->
+	<BgColor>255,255,255</BgColor>
+
+	<!-- 주석의 색상입니다. -->
+	<CommentColor>0,128,0</CommentColor>
+
+	<!-- Index는 1~10까지만 지원됩니다. -->
+	<Color Index="1">150,150,200</Color>
+	<Color Index="2">150,150,200</Color>
+	<Color Index="3">150,150,200</Color>
+	<Color Index="4">150,150,200</Color>
+	<Color Index="5">150,150,200</Color>
+	<Color Index="6">150,150,200</Color>
+	<Color Index="7">150,150,200</Color>
+	<Color Index="8">150,150,200</Color>
+	<Color Index="9">150,150,200</Color>
+	<Color Index="10">150,150,200</Color>
+
+	<!-- 별도 색상 사용을 원하시는 명령어에 다음과 같이 Color="번호"를 입력해주세요. -->
+	<!-- 리스트에 없는 명령어라면 별도로 추가하실 수 있습니다. -->
+	<!-- Color가 0일 경우 기본 색상을 사용합니다. -->
+
+	<Node Name="CG" Replacement="CG" Color="1"/>
+	<Node Name="대기" Replacement="대기"/>
+	<Node Name="배경음악" Replacement="배경음악"/>
+	<Node Name="재생" Replacement="재생"/>
+	<Node Name="일시정지" Replacement="일시정지"/>
+	<Node Name="정지" Replacement="정지"/>
+	<Node Name="변수" Replacement="변수"/>
+	<Node Name="조건" Replacement="조건"/>
+	<Node Name="동영상" Replacement="동영상"/>
+	<Node Name="페이드인" Replacement="페이드인"/>
+	<Node Name="페이드아웃" Replacement="페이드아웃"/>
+	<Node Name="회전" Replacement="회전"/>
+	<Node Name="쓰레드시작" Replacement="쓰레드시작"/>
+	<Node Name="쓰레드대기" Replacement="쓰레드대기"/>
+	<Node Name="쓰레드" Replacement="쓰레드"/>
+	<Node Name="CG" Replacement="CG"/>
+	<Node Name="스프라이트" Replacement="스프라이트"/>
+	<Node Name="GIF스프라이트" Replacement="GIF스프라이트"/>
+	<Node Name="북마크" Replacement="북마크"/>
+	<Node Name="타이머" Replacement="타이머"/>
+	<Node Name="시작위치" Replacement="시작위치"/>
+	<Node Name="대사속도" Replacement="대사속도"/>
+	<Node Name="대사색깔" Replacement="대사색깔"/>
+	<Node Name="대사새줄" Replacement="대사새줄"/>
+	<Node Name="대사크기" Replacement="대사크기"/>
+	<Node Name="대사폰트" Replacement="대사폰트"/>
+	<Node Name="대사지우기" Replacement="대사지우기"/>
+	<Node Name="이동" Replacement="이동"/>
+	<Node Name="대사창스킨" Replacement="대사창스킨"/>
+	<Node Name="대사그림자" Replacement="대사그림자"/>
+	<Node Name="대사창영역" Replacement="대사창영역"/>
+	<Node Name="대사출력영역" Replacement="대사출력영역"/>
+	<Node Name="대사잇기" Replacement="대사잇기"/>
+	<Node Name="대사" Replacement="대사"/>
+	<Node Name="딜레이" Replacement="딜레이"/>
+	<Node Name="점프" Replacement="점프"/>
+	<Node Name="선택지색깔" Replacement="선택지색깔"/>
+	<Node Name="선택지" Replacement="선택지"/>
+	<Node Name="시스템메뉴활성화" Replacement="시스템메뉴활성화"/>
+	<Node Name="모두지우기" Replacement="모두지우기"/>
+	<Node Name="종료" Replacement="종료"/>
+	<Node Name="크기" Replacement="크기"/>
+	<Node Name="스킵시작" Replacement="스킵시작"/>
+	<Node Name="스킵끝" Replacement="스킵끝"/>
+	<Node Name="입력" Replacement="입력"/>
+	<Node Name="매크로시작" Replacement="매크로시작"/>
+	<Node Name="매크로" Replacement="매크로"/>
+	<Node Name="버튼대기" Replacement="버튼대기"/>
+	<Node Name="버튼" Replacement="버튼"/>
+	<Node Name="스크립트" Replacement="스크립트"/>
+	<Node Name="배경페이드인" Replacement="배경페이드인"/>
+	<Node Name="배경페이드아웃" Replacement="배경페이드아웃"/>
+	<Node Name="배경" Replacement="배경"/>
+	<Node Name="페이스CG" Replacement="페이스CG"/>
+	<Node Name="화면색깔" Replacement="화면색깔"/>
+</NekoNovel_Command>

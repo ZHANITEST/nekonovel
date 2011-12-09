@@ -1,0 +1,34 @@
+<NekoNovel_Game>
+    <Game>
+        <Title>황혼</Title>
+        <MadeBy></MadeBy>
+        <DefaultFullScreen>false</DefaultFullScreen>
+        <DefaultFXVolume>43</DefaultFXVolume>
+        <DefaultBGMVolume>100</DefaultBGMVolume>
+        <DefaultVoiceVolume>100</DefaultVoiceVolume>
+        <TextWindowAlpha>255</TextWindowAlpha>
+        <FirstScriptName>타이틀.txt</FirstScriptName>
+        <CursorType>0</CursorType>
+        <CursorAniWidth>1</CursorAniWidth>
+        <CursorAniHeight>1</CursorAniHeight>
+        <ScreenWidth>800</ScreenWidth>
+        <ScreenHeight>600</ScreenHeight>
+        <ExternalFonts>나눔고딕.ttf</ExternalFonts>
+        <MaxPage>20</MaxPage>
+        <ProjectFlags>2</ProjectFlags>
+    </Game>
+    <LoadedScripts>
+        <Script>시나리오2.txt</Script>
+        <Script>Self.fool(1.02).txt</Script>
+        <Script>기본셋팅.txt</Script>
+        <Script>시나리오1.txt</Script>
+        <Script>시스템_메세지박스.txt</Script>
+        <Script>시스템_불러오기.txt</Script>
+        <Script>시스템_옵션.txt</Script>
+    </LoadedScripts>
+    <Publish>
+        <LastPublishFolder>D:\Projects\Tool\NekoNovel\Root\배포</LastPublishFolder>
+        <LastPublishVersion>0</LastPublishVersion>
+        <CompressBGM>true</CompressBGM>
+    </Publish>
+</NekoNovel_Game>
